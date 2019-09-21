@@ -1,0 +1,10 @@
+C:\Users\reela\source\repos\ornek kayıt sil ekle duzenle\ornek kayıt sil ekle duzenle\bin\Debug\ornek kayıt sil ekle duzenle.exe.config
+C:\Users\reela\source\repos\ornek kayıt sil ekle duzenle\ornek kayıt sil ekle duzenle\bin\Debug\ornek kayıt sil ekle duzenle.exe
+C:\Users\reela\source\repos\ornek kayıt sil ekle duzenle\ornek kayıt sil ekle duzenle\bin\Debug\ornek kayıt sil ekle duzenle.pdb
+C:\Users\reela\source\repos\ornek kayıt sil ekle duzenle\ornek kayıt sil ekle duzenle\obj\Debug\ornek kayıt sil ekle duzenle.csprojAssemblyReference.cache
+C:\Users\reela\source\repos\ornek kayıt sil ekle duzenle\ornek kayıt sil ekle duzenle\obj\Debug\ornek_kayıt_sil_ekle_duzenle.Form1.resources
+C:\Users\reela\source\repos\ornek kayıt sil ekle duzenle\ornek kayıt sil ekle duzenle\obj\Debug\ornek_kayıt_sil_ekle_duzenle.Properties.Resources.resources
+C:\Users\reela\source\repos\ornek kayıt sil ekle duzenle\ornek kayıt sil ekle duzenle\obj\Debug\ornek kayıt sil ekle duzenle.csproj.GenerateResource.cache
+C:\Users\reela\source\repos\ornek kayıt sil ekle duzenle\ornek kayıt sil ekle duzenle\obj\Debug\ornek kayıt sil ekle duzenle.csproj.CoreCompileInputs.cache
+C:\Users\reela\source\repos\ornek kayıt sil ekle duzenle\ornek kayıt sil ekle duzenle\obj\Debug\ornek kayıt sil ekle duzenle.exe
+C:\Users\reela\source\repos\ornek kayıt sil ekle duzenle\ornek kayıt sil ekle duzenle\obj\Debug\ornek kayıt sil ekle duzenle.pdb
